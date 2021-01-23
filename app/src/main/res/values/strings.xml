@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleApplicationShubhangi</string>
+    <string name="searchHint">Search Movies by title Here.</string>
+    <string name="search">Search</string>
+</resources>
